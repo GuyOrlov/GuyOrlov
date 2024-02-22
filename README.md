@@ -7,10 +7,6 @@
 <h3 align="center">I’m a Certified Career Essentials in GitHub Professional Certificate via LinkedIn Learning 🏆</h3>
 <h3 align="center">I'm passionate about coffee and people, and I'm always up for a chat ☕</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guyorlov&label=Profile%20views&color=0e75b6&style=flat" alt="guyorlov" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guyorlov" alt="guyorlov" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/GuyOrlov](https://github.com/GuyOrlov)
 
 - 📝 I regularly write articles on [https://medium.com/@guy.orlov](https://medium.com/@guy.orlov)
