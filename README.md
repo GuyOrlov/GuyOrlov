@@ -8,7 +8,4 @@
 <h3 align="center">I'm passionate about coffee and people, and I'm always up for a chat ☕</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/GuyOrlov](https://github.com/GuyOrlov)
-
-- 📝 I regularly write articles on [https://medium.com/@guy.orlov](https://medium.com/@guy.orlov)
-
 - 📫 How to reach me **guy.orlov@gmail.com**
