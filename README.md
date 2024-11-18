@@ -3,7 +3,6 @@
 
 </p>
 
-
 ## About Me 👦
  
 - 🤺 I&#39;m currently learning Python, SQL, Excel, Google Sheets, Power BI, and Tableau 👩‍💻. 
@@ -11,14 +10,10 @@
 - 🎽 Find all my projects at [access to data](www.accesstodata.co.uk) 
 - 🎟 How to reach me [guy.orlov@gmail.com](guy.orlov@gmail.com)
  
-
-
 ## Some achievements 🏆
  
 - I’m a Certified Career Essentials in GitHub Professional Certificate via LinkedIn Learning 🏆. 
 - I&#39;m a certified Google Data Analyst from Coursera 🏆.
-
-
 
 ## Skills 💪
 <p>
@@ -89,15 +84,10 @@
 </tbody>
 </table>
 
----
-
 <h2 align="center">📊 My Stats</h2>
-
 
 <p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=guyorlov&theme=default " alt="guyorlov" /></p>
  
-
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=guyorlov&theme=default&show_icons=true&locale=en" alt="guyorlov" /></p>
 
 <h3 align="center">Connect with me:</h3>
@@ -106,11 +96,5 @@
 
 </p>
 
-
 <br/>
 <br/>
-
----
-
-<p align='center'>Made with 💙 by guyorlov</p>
-
