@@ -1,7 +1,4 @@
 <p align='center'>
-<h1 align='center'>👋 Hi, I am Guy Orlov</h2>
-<p align='center'>Data Analyst  | PowerBI Developer </h4>
-
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="Banner Cover Github Profile.png"><img src="Banner Cover Github Profile.png" style="max-width: 100%;"></a></p>
 
 </p>
