@@ -50,19 +50,11 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=guyorlov&theme=default&show_icons=true&locale=en" alt="guyorlov" /></p>
 
-
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/guy-orlov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guyorlov" height="30px" width="40px" /></a>
 
 </p>
-
-
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=guyorlov&color=blue&style=flat&label=Profile Views" alt="guyorlov " /></p>
-
 
 
 <br/>
