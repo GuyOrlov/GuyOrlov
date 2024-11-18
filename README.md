@@ -10,7 +10,7 @@
 - 🎽 Find all my projects at [access to data](www.accesstodata.co.uk) 
 - 🎟 How to reach me [guy.orlov@gmail.com](guy.orlov@gmail.com)
  
-## Some achievements 🏆
+## Some Certifications 🏆
  
 - I’m a Certified Career Essentials in GitHub Professional Certificate via LinkedIn Learning 🏆. 
 - I&#39;m a certified Google Data Analyst from Coursera 🏆.
