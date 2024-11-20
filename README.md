@@ -46,37 +46,37 @@
   <tr>
     <td><a href="https://github.com" target="_blank" rel="noopener noreferrer">tomper-wear-ecommerce</a></td>
     <td>###.</td>
-    <td><a href="https://" target="_blank" rel="noopener noreferrer">visit</a></td>
+    <td><a href="https://" target="_blank" rel="no">visit</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com" target="_blank" rel="noopener noreferrer">tomper-chat</a></td>
     <td>###.</td>
-    <td><a href="https:///" target="_blank" rel="noopener noreferrer">visit</a></td>
+    <td><a href="https:///" target="_blank" rel="nor">visit</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com" target="_blank" rel="noopener noreferrer">tomper-readmify</a></td>
+    <td><a href="https://github.com" target="_blank" rel="no">tomper-readmify</a></td>
     <td>###.</td>
-    <td><a href="https://" target="_blank" rel="noopener noreferrer">visit</a></td>
+    <td><a href="https://" target="_blank" rel="no">visit</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com" target="_blank" rel="noopener noreferrer">tomper-jobs</a></td>
+    <td><a href="https://github.com" target="_blank" rel="nor">tomper-jobs</a></td>
     <td>###.</td>
-    <td><a href="https://" target="_blank" rel="noopener noreferrer">visit</a></td>
+    <td><a href="https://" target="_blank" rel="no">visit</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com" target="_blank" rel="noopener noreferrer">tomper.js</a></td>
+    <td><a href="https://github.com" target="_blank" rel="no">tomper.js</a></td>
     <td>###.</td>
-    <td><a href="https://" target="_blank" rel="noopener noreferrer">visit</a></td>
+    <td><a href="https://" target="_blank" rel="no">visit</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com" target="_blank" rel="noopener noreferrer">express-ts-decorators</a></td>
+    <td><a href="https://github.com" target="_blank" rel="nor">express-ts-decorators</a></td>
     <td>###.</td>
-    <td><a href="https://www.npmjs.com" target="_blank" rel="noopener noreferrer">npm</a></td>
+    <td><a href="https://www.npmjs.com" target="_blank" rel="noo">npm</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/varunKT001/tloc" target="_blank" rel="noopener noreferrer">tloc</a></td>
+    <td><a href="https://github.com/varunKT001/tloc" target="_blank" rel="no">tloc</a></td>
     <td>###.</td>
-    <td><a href="https://www.npmjs.com/package/tloc" target="_blank" rel="noopener noreferrer">npm</a></td>
+    <td><a href="https://www.npmjs.com/package/tloc" target="_blank" rel="no">npm</a></td>
   </tr>
   <tr>
     <td colspan="3" align="center"><a href="https://github.com/varunKT001?tab=repositories">View all projects</a></td>
