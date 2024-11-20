@@ -88,7 +88,7 @@
 
 <p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=guyorlov&theme=default " alt="guyorlov" /></p>
  
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=guyorlov&theme=default&show_icons=true&locale=en" alt="guyorlov" /></p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
