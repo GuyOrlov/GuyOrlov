@@ -44,32 +44,32 @@
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://github.com" target="_blank" rel="noopener noreferrer">tomper-wear-ecommerce</a></td>
+    <td><a href="https://github.com" target="_blank" rel="noopener noreferrer">tomper</a></td>
     <td>###.</td>
     <td><a href="https://" target="_blank" rel="no">visit</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com" target="_blank" rel="noopener noreferrer">tomper-chat</a></td>
+    <td><a href="https://github.com" target="_blank" rel="noopener noreferrer">tomper</a></td>
     <td>###.</td>
     <td><a href="https:///" target="_blank" rel="nor">visit</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com" target="_blank" rel="no">tomper-readmify</a></td>
+    <td><a href="https://github.com" target="_blank" rel="no">tomper</a></td>
     <td>###.</td>
     <td><a href="https://" target="_blank" rel="no">visit</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com" target="_blank" rel="nor">tomper-jobs</a></td>
+    <td><a href="https://github.com" target="_blank" rel="nor">tomper</a></td>
     <td>###.</td>
     <td><a href="https://" target="_blank" rel="no">visit</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com" target="_blank" rel="no">tomper.js</a></td>
+    <td><a href="https://github.com" target="_blank" rel="no">tomper</a></td>
     <td>###.</td>
     <td><a href="https://" target="_blank" rel="no">visit</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com" target="_blank" rel="nor">express-ts-decorators</a></td>
+    <td><a href="https://github.com" target="_blank" rel="nor">express</a></td>
     <td>###.</td>
     <td><a href="https://www.npmjs.com" target="_blank" rel="noo">npm</a></td>
   </tr>
