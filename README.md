@@ -7,7 +7,7 @@
  
 - 🤺 I&#39;m currently learning Python, SQL, Excel, Google Sheets, Power BI, and Tableau 👩‍💻. 
 - 🎗 I&#39;m looking for open-source/internship opportunities. 
-- 🎽 Find all my projects at [access to data](www.accesstodata.co.uk) 
+- 🎽 Find all my projects at [Guy Orlov](www.guyorlov.com) 
 - 🎟 How to reach me [guy.orlov@gmail.com](guy.orlov@gmail.com)
  
 ## Some Certifications 🏆
