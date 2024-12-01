@@ -79,7 +79,7 @@
     <td><a href="https://www.npmjs.com/package/tloc" target="_blank" rel="no">npm</a></td>
   </tr>
   <tr>
-    <td colspan="3" align="center"><a href="https://github.com/">View all projects</a></td>
+    <td colspan="3" align="center"><a href="https://www.guyorlov.com/portfolio.html">View all projects</a></td>
   </tr>
 </tbody>
 </table>
