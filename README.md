@@ -32,57 +32,6 @@
 
 </p>
 
-## Projects 👷‍♂️
-
-<table>
-<thead>
-  <tr>
-    <th>Project Name</th>
-    <th>Description</th>
-    <th>Project Link</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><a href="https://github.com" target="_blank" rel="noopener noreferrer">tomper</a></td>
-    <td>###.</td>
-    <td><a href="https://" target="_blank" rel="no">visit</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com" target="_blank" rel="noopener noreferrer">tomper</a></td>
-    <td>###.</td>
-    <td><a href="https:///" target="_blank" rel="nor">visit</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com" target="_blank" rel="no">tomper</a></td>
-    <td>###.</td>
-    <td><a href="https://" target="_blank" rel="no">visit</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com" target="_blank" rel="nor">tomper</a></td>
-    <td>###.</td>
-    <td><a href="https://" target="_blank" rel="no">visit</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com" target="_blank" rel="no">tomper</a></td>
-    <td>###.</td>
-    <td><a href="https://" target="_blank" rel="no">visit</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com" target="_blank" rel="nor">express</a></td>
-    <td>###.</td>
-    <td><a href="https://www.npmjs.com" target="_blank" rel="noo">npm</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/varunKT001/tloc" target="_blank" rel="no">tloc</a></td>
-    <td>###.</td>
-    <td><a href="https://www.npmjs.com/package/tloc" target="_blank" rel="no">npm</a></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center"><a href="https://www.guyorlov.com/portfolio.html">View all projects</a></td>
-  </tr>
-</tbody>
-</table>
 
 <h2 align="center">📊 My Stats</h2>
 
