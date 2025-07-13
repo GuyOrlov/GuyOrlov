@@ -1,5 +1,5 @@
 <p align='center'>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="Banner Cover Github Profile.png"><img src="img/Banner Cover Github Profile.png" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="Banner Cover Github Profile.png"><img src="img/1745423574689.jpeg" style="max-width: 100%;"></a></p>
 
 </p>
 
