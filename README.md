@@ -1,29 +1,77 @@
-# 👋 Hi — I’m Guy Orlov  
-### NHS Data & Reporting Analyst
+# 👋 Hi, I'm Guy Orlov
 
-I focus on **data cleaning, reporting, spreadsheet modelling and operational data support**, mainly using:
+### Data & Reporting Analyst | NHS | Power BI • Excel • Data Quality • Accessibility
 
-- Excel  
-- Google Sheets  
-- Power BI (developing applied projects)
+I work with operational data, reporting and data quality, with a particular interest in turning complex information into **clear, accessible and useful insights**.
 
-I am currently building **small practice datasets and dashboards** to strengthen my analyst skills and improve data quality workflows.
+My work and personal projects focus on:
 
-<div style="height:2px;background:#1f6feb;margin:16px 0;"></div>
+- 📊 Data analysis and reporting
+- 📈 Power BI dashboards and data visualisation
+- 🧹 Data cleaning and validation
+- 📑 Excel and Google Sheets modelling
+- 🔎 Data quality and operational reporting
+- ♿ Accessible and inclusive data presentation
+
+---
 
 ## 🛠️ Tools & Skills
 
-**Excel · Google Sheets · Power BI (developing) · SQL (beginner)**  
-**Data Cleaning · Data Validation · Reporting · Accessibility & Inclusion**
+**Data & Reporting**  
+Excel • Google Sheets • Power BI • SQL
 
-<div style="height:2px;background:#1f6feb;margin:16px 0;"></div>
+**Data Quality**  
+Data Cleaning • Validation • Data Checks • Reporting
 
-## 📂 Current Repository Themes
+**Visualisation**  
+Dashboard Design • KPI Reporting • Trends • Comparisons
 
-- Practice dashboards (**KPIs, trends, comparisons**)
-- Clean structured **spreadsheet models**
-- **Accessibility-aware** data presentation
+**Accessibility**  
+Accessible Data Visualisation • Plain English • Inclusive Design
 
-<div style="height:2px;background:#1f6feb;margin:16px 0;"></div>
+---
 
-⭐ I’m continuously developing my analyst skills through hands-on projects — learning, improving and building practical experience.
+## 🚀 What I'm Building
+
+I'm developing practical projects to strengthen my data analysis, reporting and dashboard skills.
+
+Current areas include:
+
+- Executive and KPI dashboards
+- UK disability data visualisation
+- Accessible reporting tools
+- Spreadsheet models and trackers
+- Data quality workflows
+- Power BI and Microsoft Fabric projects
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Access to Data
+Making UK disability statistics easier to understand through accessible charts, explanations and trusted data sources.
+
+### ♿ Power BI Accessibility Generator
+A practical tool for improving accessibility in Power BI reports and dashboards.
+
+### 📈 Dashboard Projects
+Practice dashboards covering KPIs, trends, comparisons and operational reporting.
+
+---
+
+## 🎓 Certifications
+
+- Microsoft PL-300: Power BI Data Analyst
+- Google Data Analytics Professional Certificate
+- Level 3 Data Technician
+- BSc Computing Visualisation
+
+---
+
+## 🌱 Currently Developing
+
+I'm continuing to build practical experience with:
+
+`Power BI` · `SQL` · `Microsoft Fabric` · `Data Modelling` · `Dashboard Design`
+
+My goal is simple: **make data easier to understand, more accurate and more accessible.**
